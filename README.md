@@ -25,6 +25,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://br.linkedin.com/in/matheus-hentges-410538165)
 
+----------------------------------------------------------------------------------
 
 
 - Thanks for visiting.
