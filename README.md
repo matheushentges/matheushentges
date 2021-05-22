@@ -27,7 +27,6 @@
 
 ## Languages
 
-![MatheusHentgesStatus](https://github.com/matheushentges/github-readme-stats)
 
 ![PHP_Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
