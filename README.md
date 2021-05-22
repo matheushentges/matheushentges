@@ -25,7 +25,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://br.linkedin.com/in/matheus-hentges-410538165)
 
-----------------------------------------------------------------------------------
 ## Languages
 
 ![PHP_Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
