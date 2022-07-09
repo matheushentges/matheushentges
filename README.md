@@ -14,7 +14,6 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: migrate to the development area and start new projects.
 
 
  
